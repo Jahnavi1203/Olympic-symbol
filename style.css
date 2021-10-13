@@ -1,0 +1,17 @@
+h1
+{
+	color:greenyellow; 
+	font-size: 40px;
+}
+.bodybackgorund {
+	background-image: url("https://th.bing.com/th/id/R.5e48c5a920e58cb2b763cf95717b0ad2?rik=lB7w%2bYZXzyeTtA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f2%2f9%2ff%2f92454.jpg&ehk=KVSASHxBE9I5p6jYNvorGGaEk9m1%2ffJsNbXH1pe0n94%3d&risl=&pid=ImgRaw&r=0");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+
+}
